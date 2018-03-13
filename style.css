@@ -1,0 +1,40 @@
+body {
+    overflow-y: scroll;
+}
+
+.heading {
+    margin-bottom: 20px;
+}
+
+.status {
+    border: 1px solid #fff;
+    margin: 0 20px; 
+}
+
+.status:hover {
+    cursor: pointer;
+    background: #0370e4;    
+}
+
+.status:active {
+    background: #045ebe;   
+}
+
+.status-1 {
+    border: #5487f2 solid 1px; 
+}
+
+.current-status {
+    float: right;
+}
+
+.information {
+    display: inline-block;
+}
+
+img {
+    width: 90px;
+    margin-right: 40px;
+}
+
+
